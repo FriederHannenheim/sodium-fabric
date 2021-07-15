@@ -5,6 +5,8 @@
 ![GitHub issues](https://img.shields.io/github/issues/CaffeineMC/sodium-fabric.svg)
 ![GitHub tag](https://img.shields.io/github/tag/CaffeineMC/sodium-fabric.svg)
 
+<h1 style="color:red">This is updated for the 1.18 Experiment. I just fixed the compiler errors and nothing else so this is probably very unstable</h1>.
+
 Sodium is a free and open-source optimization mod for the Minecraft client that improves frame rates, reduces
 micro-stutter, and fixes graphical issues in Minecraft. 
 
